@@ -17,6 +17,8 @@ För att köra programmet och skapa resultat.json från en Excel- eller CSV-fil,
 
 3. Installera pandas-paketet genom att köra följande kommando:
 
+   pip install pandas
+
 
 ## Användning
 
